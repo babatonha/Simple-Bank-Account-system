@@ -1,0 +1,13 @@
+c:\users\student\documents\visual studio 2015\Projects\Assessment\Assessment\bin\Debug\Assessment.exe.config
+c:\users\student\documents\visual studio 2015\Projects\Assessment\Assessment\bin\Debug\Assessment.exe
+c:\users\student\documents\visual studio 2015\Projects\Assessment\Assessment\bin\Debug\Assessment.pdb
+c:\users\student\documents\visual studio 2015\Projects\Assessment\Assessment\obj\Debug\Assessment.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\Assessment\Assessment\obj\Debug\Assessment.exe
+c:\users\student\documents\visual studio 2015\Projects\Assessment\Assessment\obj\Debug\Assessment.pdb
+C:\Users\Tonha\Desktop\Assessment\Assessment\bin\Debug\Assessment.exe.config
+C:\Users\Tonha\Desktop\Assessment\Assessment\bin\Debug\Assessment.exe
+C:\Users\Tonha\Desktop\Assessment\Assessment\bin\Debug\Assessment.pdb
+C:\Users\Tonha\Desktop\Assessment\Assessment\obj\Debug\Assessment.csprojAssemblyReference.cache
+C:\Users\Tonha\Desktop\Assessment\Assessment\obj\Debug\Assessment.csproj.CoreCompileInputs.cache
+C:\Users\Tonha\Desktop\Assessment\Assessment\obj\Debug\Assessment.exe
+C:\Users\Tonha\Desktop\Assessment\Assessment\obj\Debug\Assessment.pdb
